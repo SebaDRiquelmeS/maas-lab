@@ -1,0 +1,14 @@
+{
+  "prefix": "ml",
+  "nat_cidr": "192.168.210.0/24",
+  "provision_cidr": "192.168.211.0/24",
+  "controller_memory_mib": 6144,
+  "controller_vcpus": 4,
+  "controller_disk_gib": 50,
+  "node_memory_mib": 4096,
+  "node_vcpus": 2,
+  "node_disk_gib": 25,
+  "maas_channel": "3.7/stable",
+  "virtualbmc_version": "3.4.0",
+  "bmc_server_port": 50892
+}

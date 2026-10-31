@@ -1,0 +1,12 @@
+.state/
+.venv/
+__pycache__/
+*.pyc
+*.img
+*.qcow2
+*.iso
+*.pem
+*.key
+.env
+config.json
+*credentials*.json
